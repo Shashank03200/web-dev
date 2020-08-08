@@ -1,0 +1,132 @@
+div {
+  font-family: "Merriweather", serif;
+}
+h1 {
+  font-size: 5rem;
+  color: #66bfbf;
+  margin-top: 50px auto 0 auto;
+  display: inline;
+  margin: 0 auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+.programmer {
+  font-weight: normal;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  line-height: 2rem;
+}
+
+h3,
+a {
+  color: #11999e;
+  margin-top: 50px;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top_container {
+  background-color: #e4f9e5;
+  position: relative;
+  padding: 150px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle_container {
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #66bfbf;
+}
+.skills {
+  margin-top: 60px;
+}
+hr {
+  width: 10%;
+  border-style: dotted none none;
+  background-color: white;
+  border-width: 10px;
+  color: grey;
+  margin: 60px auto 60px auto;
+}
+.code-img {
+  width: 25%;
+  margin-left: 20px;
+  float: right;
+}
+.skill-image {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.touch-text .chill-image {
+  width: 25%;
+  margin-right: 20px;
+}
+
+.profile {
+  margin: 50px auto 60px auto;
+}
+
+.desc {
+  margin: auto;
+  width: 30%;
+  line-height: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.copyright-text {
+  margin: 50px auto 50px auto;
+  color: #eaf6f6;
+  font-size: 20px;
+}
+
+.remark {
+  width: 60%;
+  margin: 50px auto 50px auto;
+}
+
+input {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  margin: auto auto 30px auto;
+}
+
+.footer-link {
+  margin-right: 50px;
+  font-size: 24px;
+}
